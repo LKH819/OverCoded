@@ -28,6 +28,7 @@ Format :
 ```
 oc_sort_function_description
 ```
-oc
+oc stand for OverCoded
+Example : ```oc_TF_Position_m_per_sec```
 
 ## Tutorial

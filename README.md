@@ -22,5 +22,5 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 * [Naming] (##naming)
 * [Tutorial] (##tutorial)
 
-##Naming
-##Tutorial
+## Naming
+## Tutorial

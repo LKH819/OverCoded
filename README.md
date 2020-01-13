@@ -7,7 +7,7 @@ Overcoded is also useful for those who want to have a quick build or test for th
 Just come and try OverCoded if you got any new idea with your new game as you do not need any coding with OverCoded. 
 Overcoded is so convenient, isn't? :stuck_out_tongue_winking_eye:
 
-This idea is similar to visual scripting. However plugin of visual scripting for unity in the market are quite expensive.
+This idea is similar to visual scripting. However, the plugins of visual scripting for unity in the market are quite expensive.
 
 Overcoded is very beginner friendly as you just have to drag and drop the script into the inspector. You may also put in some status depends on the situation. 
 

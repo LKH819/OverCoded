@@ -42,5 +42,6 @@ As for shortening the name, some ```sort``` may be written in short form like ``
 
 ## Tutorial
 
+>Move your mouse to the variable would show tips.
 
 ![ToolTip](https://github.com/LKH819/OverCoded/blob/master/Photo/tooltip.png "ToolTip")

@@ -20,7 +20,7 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 ## Getting Started
 ### Contents
 * [Naming](#Naming)
-* [Tutorial] (## tutorial)
+* [Tutorial](#Tutorial)
 
 ## Naming
 ## Tutorial

@@ -25,8 +25,8 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 ## Naming
 As I wanted to make it easy for everyone to use and read, I tried to name the classes human friendly.
 Format :
-```
-oc_sort_function_description```
+
+```oc_sort_function_description```
 oc
 
 ## Tutorial

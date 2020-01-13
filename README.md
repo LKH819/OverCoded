@@ -16,9 +16,11 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 * Simple and beginner friendly
 * Without coding
 * Convenient
+* Useful for quick presenting idea
 
 ## Getting Started
 Hit Download Zip, drag ```Plugins``` to your unity Project window.
+![Location](https://github.com/LKH819/OverCoded/blob/master/Photo/Location.png "Location")
 
 > Notice !!! ```OverCoded.dll``` must be placed in the folder ```Plugins``` in unity Project folder.
 

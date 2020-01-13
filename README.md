@@ -13,4 +13,13 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 
 ## Features
 * Free
-* 
+* Simple and beginner friendly
+* Without coding
+* Convenient
+
+## Getting Started
+### Contents
+* Naming (##Naming)
+* Tutorial (##Tutorial)
+
+##Naming

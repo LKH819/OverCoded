@@ -18,6 +18,10 @@ Overcoded is very beginner friendly as you just have to drag and drop the script
 * Convenient
 
 ## Getting Started
+Hit Download Zip, drag ```Plugins``` to your unity Project window.
+
+> Notice !!! ```OverCoded.dll``` must be placed in the folder ```Plugins``` in unity Project folder.
+
 ### Contents
 * [Naming](#Naming)
 * [Tutorial](#Tutorial)

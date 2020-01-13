@@ -1,4 +1,5 @@
 # OverCoded
+***
 Welcome to OverCoded :smile:
 
 Overcoded is a Unity plugin that provide basic classes(based on OOP). The plugin is designed for those beginners who are interested in game development but do not want to learn programming. 
@@ -10,5 +11,8 @@ Overcoded is so convenient, isn't? :stuck_out_tongue_winking_eye:
 This idea is similar to visual scripting. However plugin of visual scripting for unity in the market are quite expensive.
 
 Overcoded is very beginner friendly as you just have to drag and drop the script into the inspector. You may also put in some status depends on the situation. 
-***
+
 # Features
+***
+* Free
+* 
